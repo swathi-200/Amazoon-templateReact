@@ -1,0 +1,11 @@
+.home {
+
+    max-width:100rem;
+    margin: 0 auto;
+  
+    &__section {
+      padding: 1rem;
+      background-image: linear-gradient(to bottom right, black, #c0d5d9);
+    }
+  }
+  
